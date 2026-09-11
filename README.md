@@ -12,7 +12,8 @@ npm run dev
 ## 패키징 (Windows)
 
 ```bash
-npm run dist
+Window: npm run dist:win
+Mac: npm run dist:mac
 ```
 
 결과물은 `release/` 에 생성됩니다.
